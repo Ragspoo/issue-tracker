@@ -17,9 +17,9 @@
     padding: 5px;
     width: 95%;
     min-height: 250px;
-    color: purple;
+    color: rgb(29, 146, 204);
     background-color: white;
-    border: 2px solid purple;
+    border: 2px solid rgb(27, 137, 205);
     position: relative;
     cursor: pointer;
     border-radius: 5px;
@@ -58,11 +58,11 @@
     bottom: 5px;
     right: 10px;
     color: white;
-    background-color: rgb(188, 1, 188);
+    background-color: rgb(12, 115, 211);
 }
 
 .projectDetailsDiv:hover {
-    box-shadow: 0 0 5px purple;
+    box-shadow: 0 0 5px rgb(9, 161, 195);
 }
 
 .projectDetailsDiv h4 {
@@ -81,7 +81,7 @@
     padding: 10px;
     width: 90%;
     background-color: ghostwhite;
-    border: 2px solid purple;
+    border: 2px solid rgb(31, 184, 214);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -94,7 +94,7 @@
 }
 
 #navbar label {
-    color: rgb(188, 1, 188);
+    color: rgb(17, 116, 202);
 }
 
 #bugBox {
@@ -117,7 +117,7 @@
     border-radius: 0.5rem;
     text-align: center;
     margin: 10px 0;
-    background-color: rgb(188, 1, 188);
+    background-color: rgb(17, 178, 222);
     color: white;
     padding: 5px;
 }
